@@ -13,7 +13,7 @@ Hongru is a master student at [Prof. Xiangrong Wang](https://xiangrongwang.githu
 
 * Unveiling the reproduction number scaling in characterizing social contagion coverage
 
-  Wang, X., Hou, H., Lu, D., Wu, Z., & Moreno, Y. (2024).
+  Wang, X., **Hou, H.**(equal contribution), Lu, D., Wu, Z., & Moreno, Y. (2024).
 
   Chaos, Solitons & Fractals, 185, 115119.
 
