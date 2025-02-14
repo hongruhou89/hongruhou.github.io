@@ -21,7 +21,7 @@ Hongru is a master student at [Prof. Xiangrong Wang](https://xiangrongwang.githu
 
 * Tencent 2024.06 ~ Now
 
-  Reasearch Internship@[Social Algorithm Team](https://socialalgo.github.io/), IEG, Shenzhen, supervised by [Wenqing Lin](https://xiangrongwang.github.io/), [Jiachen Sun](https://scholar.google.com/citations?hl=zh-CN&user=UonjPEoAAAAJ), and [Wendong Bi](https://wendongbi.github.io/).
+  Reasearch Internship@[Social Algorithm Team](https://socialalgo.github.io/), IEG, Shenzhen, supervised by [Wenqing Lin](https://edwlin.github.io/), [Jiachen Sun](https://scholar.google.com/citations?hl=zh-CN&user=UonjPEoAAAAJ), and [Wendong Bi](https://wendongbi.github.io/).
 
   + Research on Social Recommendation, Influence Maximization, Causal Inference
   
