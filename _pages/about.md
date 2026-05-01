@@ -14,7 +14,7 @@ master's degree at [Southern University of Science and Technology](https://www.s
 
 * ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation
 
-  **Hou, H.**, Hou, H., Mei, T., Geng, D., Huang, J., Xu, A., Chen, H., Liang, J., & Yang, D. (2026).
+  **Hou, H.**, Mei, T., Geng, D., Huang, J., Xu, A., Chen, H., Liang, J., & Yang, D. (2026).
 
   Forty-Third International Conference on Machine Learning, ICML 2026
 
