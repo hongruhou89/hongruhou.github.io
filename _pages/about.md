@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hongru is a 1st-year Phd student at [Prof. Deqing Yang](https://kw.fudan.edu.cn/people/yangdeqing/)'s Group from [Fudan University](https://www.fudan.edu.cn/). Prior to this, he got
+Hongru is a 1st-year Ph.D. student at [Prof. Deqing Yang](https://kw.fudan.edu.cn/people/yangdeqing/)'s Group from [Fudan University](https://www.fudan.edu.cn/). Prior to this, he got
 master's degree at [Southern University of Science and Technology](https://www.sustech.edu.cn/) under the guidance of [Prof. Xiangrong Wang](https://xiangrongwang.github.io/). Hongru's research interests mainly focus on Recommender Systems and Large Language Models.
 
 ## Publications
