@@ -12,23 +12,39 @@ master's degree at [Southern University of Science and Technology](https://www.s
 
 ## Publications
 
+## Main Publications
+
 * ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation
-
+  
   **Hou, H.**, Mei, T., Geng, D., Huang, J., Xu, A., Chen, H., Liang, J., & Yang, D. (2026).
-
+  
   Forty-Third International Conference on Machine Learning, ICML 2026
+  
+  [[arXiv](https://arxiv.org/abs/2605.28293)] [[GitHub]](https://github.com/hongruhou89/ProRL)
 
 * Heterogeneous Influence Maximization in User Recommendation
-
+  
   **Hou, H.**, Sun, J., Lin, W., Bi, W., Wang, X., & Yang, D. (2025).
-
+  
   ACM International Conference on Information and Knowledge Management, CIKM 2025
+  
+  [[arXiv](https://arxiv.org/abs/2508.13517)] [[GitHub](https://github.com/socialalgo/HIM)]
 
 * Unveiling the reproduction number scaling in characterizing social contagion coverage
 
   Wang, X., **Hou, H.**(equal contribution), Lu, D., Wu, Z., & Moreno, Y. (2024).
 
   Chaos, Solitons & Fractals, 185, 115119.
+
+## Others
+
+* Predicting the critical behavior of complex dynamic systems via learning the governing mechanisms
+
+  Mei, T., Lv, M., Pan, L., Su, Z., **Hou, H.**, Chen, H., Xu, Ao., Yang, D. (2026).
+
+  Annual meeting of the association for Computational Linguistics, ACL 2026
+
+  [[arXiv](https://arxiv.org/abs/2603.09803)] [[GitHub](https://github.com/Mithas-114/IC-DAPO)]
 
 * Predicting the critical behavior of complex dynamic systems via learning the governing mechanisms
 
