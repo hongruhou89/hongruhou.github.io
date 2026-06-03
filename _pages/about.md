@@ -24,7 +24,7 @@ master's degree at [Southern University of Science and Technology](https://www.s
   
   **Hou, H.**, Sun, J., Lin, W., Bi, W., Wang, X., & Yang, D. (2025).
   
-  ACM International Conference on Information and Knowledge Management, **CIKM 2025**
+  ACM International Conference on Information and Knowledge Management, **CIKM 2025, Internership at Tencent**
   
   [[arXiv](https://arxiv.org/abs/2508.13517)] [[GitHub](https://github.com/socialalgo/HIM)]
 
@@ -36,7 +36,7 @@ master's degree at [Southern University of Science and Technology](https://www.s
 
 ---
 
-* Predicting the critical behavior of complex dynamic systems via learning the governing mechanisms
+* Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning
 
   Mei, T., Lv, M., Pan, L., Su, Z., **Hou, H.**, Chen, H., Xu, Ao., Yang, D. (2026).
 
