@@ -32,7 +32,7 @@ master's degree at [Southern University of Science and Technology](https://www.s
 
   Wang, X., **Hou, H.**(equal contribution), Lu, D., Wu, Z., & Moreno, Y. (2024).
 
-  **Chaos, Solitons & Fractals**, 185, 115119.
+  **Chaos, Solitons & Fractals (SCI-Q1 Top)**, 185, 115119.
 
 ---
 
@@ -48,7 +48,7 @@ master's degree at [Southern University of Science and Technology](https://www.s
 
   Wang, X., Lu, D., Wu, Z., Xu, W., **Hou, H.**, Hu, Y., & Moreno, Y. (2025).
 
-  **Chaos, Solitons & Fractals**, 198, 116515.
+  **Chaos, Solitons & Fractals (SCI-Q1 Top)**, 198, 116515.
 
 ## Career
 
